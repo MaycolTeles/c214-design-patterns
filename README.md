@@ -56,17 +56,6 @@ To install all the necessary project dependencies, run the following command in 
 pip install -r requirements.txt
 ```
 
-### Creating the .env file :spiral_notepad:
-In order to run the project, you must create a .env file to store the necessary environment variables (in this case, the UI injection).
-To do so, open the file named ".env.tmpl" and follow the instructions inside it to create the .env file.
-
-### Executing the Project :arrow_forward:
-To run your project, go to `src` folder (`cd app/src`) and run the following command in the terminal (make sure you're running it from whithin your virtualenv):
-
-```
-python -m main
-```
-
 
 *********************
 
